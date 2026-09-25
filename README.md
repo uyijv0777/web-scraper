@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # web-scraper
 
 A lightweight web scraper with configurable extraction rules.
